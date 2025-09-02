@@ -2,7 +2,7 @@ git
 log
 status
 pull
-push
-commit
+xxpushxx
+#commit
 add
-
+#
